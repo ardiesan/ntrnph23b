@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Internship Log
 permalink: /about
 comments: true
 ---

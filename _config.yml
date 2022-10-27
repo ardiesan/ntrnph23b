@@ -11,6 +11,11 @@ mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 
+# Comments
+comments:
+  page: false
+  post: false
+
 # Authors
 authors:
   sal:
