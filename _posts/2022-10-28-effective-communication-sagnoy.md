@@ -1,10 +1,12 @@
 ---
-FullSpeed Technologies Inc. Internship
-Author: Sagnoy, Natalie Invento
+layout: post
+title:  "Effective Communication"
+author: nataliesagnoy777
+categories: [ communication ]
 ---
 
 
-## Week1-Day1: Effective Communication
+## Effective Communication
 
 > My thoughts: "Communication VS Effective Communication"
         - Communication, by definition, is the exchange of information between two 
@@ -106,72 +108,4 @@ Author: Sagnoy, Natalie Invento
                     
                     
                     
-
-## Week1-Day2: How To Ask Questions The Smart Way
-
-> Time sinks 
-                - these are people who takes without giving back. They don’t 
-                  try to sit and think the problem but instead blatantly asks someone else 
-                  to spoon-feed the solution or answer to them. These are the type of people 
-                  hackers hate and ignore.
-
-> Before you ask:
-		-   Try to solve the problem yourself
-		-   If you feel like you've focused on the problem for too long, 
-                    then take a small break. After that try again. If you're still stuck 
-                    despite doing so.
-		-   Then be resourceful and use any tools at hand.
-		-   You can google the problem,
-		-   Watch a youtube video. Etc.
-		-   Read manuals, FAQ'S
-		-   Try stack overflow
-		-   ETC.
-		-   Always consider that someone have already encountered the same 
-                    problem, so an answer might exist somewhere. And all you have to do 
-                    is search and find it.
-		-   These are the steps you need to do first in order to prepare yourself 
-                    and create a good question.
-		-   So the key here is to be prepared and be an active participant 
-                    in solving the problem
-
-> When you ask
-		-   You have to carefully choose the right venue to ask the certain question. 
-                    You cant just post your questions anywhere.
-		-   You're question must be related or is connected to the topic in that 
-                    forum/channel
-		-   Make sure that your question is clear and concise, in order to 
-                    really get the answers you need.
-		-   Be mindful, do not rush people to reply. Keep in mind that, that 
-                    problem is yours not theirs. So always be polite and mindful. 
-                    People also have problems of their own.So always be polite and mindful.
-
->  How to interpret answers
-		-   RTFM -  Read The Fucking Manual & STFW - Searched The Fucking Web.
-		-   If you don’t understand the answer then try and solve it using the 
-                    steps you've done with your first problem.
-		-   And if an answer seems rude for you, don’t take it seriously. Just be 
-                    calm and do better at asking questions next time.
-
-> If you cant get an answer
-		-   Don’t assume that you are being ignored, people may simply 
-                    not know the answer. So be patient and don’t re-post your question.
-		-   Contract/Hire someone to help you. There are plenty of companies 
-                    that offers  services and support
-
-> How  to answer questions in a helpful way
-		-   Be gentle, and understanding especially to newbies.
-		-   Ensure that your answer, gives good value. Don’t joke around 
-                    or make unsure answers that may slow the process of finding the 
-                    correct answer.
-		-   If you did some research to answer the question, then demonstrate 
-                    the procedure of how you did it in order to teach others research skills.
-
-> IN SHORT:
-		-   BE PREPARED
-		-   BE PRECISE
-		-   BE MINDFUL
-		-   BE POLITE 
-
-
-
 
