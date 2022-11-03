@@ -4,7 +4,7 @@ title: "Engineer's Log"
 description: "This is an internship log"
 logo: 'assets/images/logo.svg'
 favicon: 'assets/images/favicon.ico'
-baseurl: /engineers-training
+baseurl: /engineers-log
 google_analytics: ''
 disqus: ''
 mailchimp-list: false
