@@ -14,24 +14,24 @@ Here are some of the things that I've done as a software engineer intern at FULL
 In the following topic, I was able to know the organizational structure of the company and its mission and its vision. At FULLSPEED at end of every month, the company has a monthly knowledge sharing in which employees can share their knowledge with the team. During this time I was invited to another meeting for the introduction to the team/department to that I will belong (Titan department). The Titan department is one of the development departments in the company.
 
 In this particular virtual, we talk about the department goals which are :
-    -   Project delivery
-    -   Productivity
-    -   Quality
+- Project delivery
+- Productivity
+- Quality
 
 Have you noticed that these three goals are not being numbered/ordered? in the department goals these three goals are treated as equal while the focus of the Titan department core values is: 
 
-    -   Trust and Respect
-    -   Teamwork
-    -   Accountability
-    -   Professionalism
+- Trust and Respect
+- Teamwork
+- Accountability
+- Professionalism
 
 In the coming days, we are assigned different readings regarding effective communication, correctly asking a question, and effective debugging. An effective way of communication was the first thing that we need to work on during the first week of my internship this topic it's talking about the different means of effective communication such as :
 
-    -   Be professional
-    -   Be prepared
-    -   Be confident
-    -   Be visual
-    -   Be mindful
+- Be professional
+- Be prepared
+- Be confident
+- Be visual
+- Be mindful
 
 ## How to Report a Bug
 
