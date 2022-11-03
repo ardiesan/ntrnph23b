@@ -2,8 +2,8 @@
 name: "Internship Log"
 title: "Internship Log"
 description: "This is an internship log"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logo.svg'
+favicon: 'assets/images/favicon.ico'
 baseurl: /engineers-training
 google_analytics: ''
 disqus: ''
@@ -35,11 +35,20 @@ authors:
     web: https://www.example.net
     twitter: https://twitter.com/
     description: "Author of Internship Log. You are currently previewing work in progress"
-  nat:
+  nsagnoy:
     name: Natalie Sagnoy
     display_name: Nat
+    avatar: 'assets/images/avatar.png'
     email: sagoy.natalie@fullspeedtechnologies.com
     description: "W.I.P"
+  jdayuday:
+    name: Jerson Dayuday
+    display_name: Erson
+    avatar: 'assets/images/avatar.png'
+    email: sagoy.natalie@fullspeedtechnologies.com
+    description: "W.I.P"
+
+
 # Plugins
 plugins:
   - jekyll-paginate
