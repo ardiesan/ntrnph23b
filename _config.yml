@@ -39,6 +39,12 @@ authors:
     avatar: 'assets/images/avatar.png'
     email: jdayuday+noreply@example.net
     description: "W.I.P"
+  canis:
+    name: Cloyd Anis
+    display_name: Cloyd
+    avatar: 'assets/images/avatar.png'
+    email: canis+noreply@example.net
+    description: "A junior engineer making great strides in the software development industry."
 
 
 # Plugins
