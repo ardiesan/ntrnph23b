@@ -7,11 +7,10 @@ categories:
 - springframework
 ---
 
-
-## Introduction
-
 In this article, we are going to focus on common fields and how it can affect our application if we do not plan ahead of time.  
   
+## Introduction
+
 The Common fields are fields that are similar and present in two or more classes in Java.
 
 Declaring common fields for each class in a scalable project could be cumbersome as it makes you repeat yourself and could make lengthy codes.  
