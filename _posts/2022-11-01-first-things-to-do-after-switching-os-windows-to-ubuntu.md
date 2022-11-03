@@ -3,8 +3,8 @@ layout: post
 title: "First things to do after switching OS - Windows to Ubuntu"
 author: nsagnoy
 categories: 
-- OS
-- Ubuntu
+- internship
+- ubuntu
 ---
 
 Congrats on successfully installing Ubuntu! The installation was pretty easy, isn't it? Well, not to rain on your parade, there are still a tad bit of things you need to know and set up in order to fully enjoy your newly installed Linux distro. No need to worry. I've got it covered.
