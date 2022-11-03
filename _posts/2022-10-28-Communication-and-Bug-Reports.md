@@ -3,13 +3,12 @@ layout: post
 title: "Communication and Bug Reports - Be Calm"
 author: jdayuday
 categories: 
- - internship
+- internship
 ---
 
+Here are some of the things that I've done as a software engineer intern at FULLSPEED TECHNOLOGIES INC. On my first initial week at FULLSPEED, I started my day with a virtual meeting with one of the admins for social media specialists, in this meeting I had learn about the company's background in software consultations, Digital marketing, and offshore development.
 
 ## Effective Communication
-
-Here are some of the things that I've done as a software engineer intern at FULLSPEED TECHNOLOGIES INC. On my first initial week at FULLSPEED, I started my day with a virtual meeting with one of the admins for social media specialists, in this meeting I had learn about the company's background in software consultations, Digital marketing, and offshore development.
 
 In the following topic, I was able to know the organizational structure of the company and its mission and its vision. At FULLSPEED at end of every month, the company has a monthly knowledge sharing in which employees can share their knowledge with the team. During this time I was invited to another meeting for the introduction to the team/department to that I will belong (Titan department). The Titan department is one of the development departments in the company.
 

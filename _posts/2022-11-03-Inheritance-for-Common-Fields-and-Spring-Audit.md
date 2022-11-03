@@ -3,7 +3,8 @@ layout: post
 title: "Inheritance for Common Fields and Spring Audit"
 author: canis
 categories: 
- - internship
+- spring
+- springframework
 ---
 
 
