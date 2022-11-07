@@ -2,7 +2,9 @@
 layout: post
 title: "Docker - Introduction"
 author: nsagnoy
-categories: [ Docker ]
+categories:
+- internship
+- docker
 ---
 
 
