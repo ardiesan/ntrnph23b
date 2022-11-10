@@ -1,15 +1,17 @@
-matrix:
-- name: Articles Markdown
+me: Markdown
   aspell:
     lang: en
-    d: en_US
+  dictionary:
+    wordlists:
+    - .wordlist.txt
+    encoding: utf-8
   pipeline:
-  - pyspelling.parsers.markdown_parser:
-      markdown_extensions:
-      - markdown.extensions.toc:
-          slugify: !!python/name:pymdownx.slugs.uslugify
-          permalink: "\ue157"
-      - markdown.extensions.admonition
-      - markdown.extensions.smarty
+  - pyspelling.filters.markdown:
+  - pyspelling.filters.html:
+      comments: false
+      ignores:
+      - code
+      - pre
   sources:
-  - _posts/*.md
+  - '_posts/*.md'
+  default_encoding: utf-8
