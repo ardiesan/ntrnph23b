@@ -1,0 +1,28 @@
+---
+layout: default
+disqus: false
+archive: false
+---
+
+<!-- This has the username of author. The one that you set with "author: name" in front-matter-->
+{% assign author_username = page.pagination.author %}
+
+<!-- Use page.pagination.author_data only if you have data file setup correctly -->
+{% assign author = page.pagination.author_data %}
+
+<section class="recent-posts">
+
+    <div class="section-title">
+
+        <h2>Authored by <span>{{ author.full_name }}</span></h2>
+
+    </div>
+
+    <div class="row listrecent">
+    {% for post in paginator.posts %}
+        {% include postbox-2.html %}
+    {% endfor %}
+    </div>
+
+</section>
+
