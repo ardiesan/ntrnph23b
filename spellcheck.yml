@@ -1,4 +1,5 @@
-me: Markdown
+matrix:
+- name: Markdown
   aspell:
     lang: en
   dictionary:
