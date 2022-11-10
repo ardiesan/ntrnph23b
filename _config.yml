@@ -28,19 +28,19 @@ authors:
     twitter: https://twitter.com/
     description: "Author of Internship Log. You are currently previewing work in progress"
   nsagnoy:
-    name: Natalie Sagnoy
+    full_name: Natalie Sagnoy
     display_name: Nat
     avatar: 'assets/images/avatar.png'
     email: nsagnoy+noreply@example.net
     description: "W.I.P"
   jdayuday:
-    name: Jerson Dayuday
+    full_name: Jerson Dayuday
     display_name: Erson
     avatar: 'assets/images/avatar.png'
     email: jdayuday+noreply@example.net
     description: "W.I.P"
   canis:
-    name: Cloyd Anis
+    full_name: Cloyd Anis
     display_name: Cloyd
     avatar: 'assets/images/avatar.png'
     email: canis+noreply@example.net
