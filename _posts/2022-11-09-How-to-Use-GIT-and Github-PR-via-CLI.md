@@ -4,8 +4,8 @@ title: "How to Use GIT and GitHub PR via CLI"
 author: jdayuday
 categories:
 - internship
-- Git
-- GitHub
+- git
+- github
 ---
 
 

@@ -35,14 +35,12 @@ The first two examples use Spring Audit but have the same timestamp fields which
 According to the [spring documentation](https://docs.spring.io/spring-data/jpa/docs/current/api/org/springframework/data/jpa/domain/support/AuditingEntityListener.html#:~:text=Class%20AuditingEntityListener&text=Configures%20the%20AuditingHandler%20to%20be,on%20the%20domain%20types%20touched.&text=Sets%20modification%20and%20creation%20date,implements%20Auditable%20on%20persist%20events.), the AuditingEntityListener is a JPA entity listener for auditing information on persisting and modifying entities.
 
 ```
-
 @Entity
 @EntityListeners(AuditingEntityListener.class)
 public class Employees{
 
   @Id
   @GeneratedValue(strategy = GenerationType.IDENTITY)
-
   private int id;
 
   private String lastName;
@@ -69,8 +67,6 @@ public class Employees{
 }
 
   
-  
-
 @Entity
 @EntityListeners(AuditingEntityListener.class)
 public class Holidays {
