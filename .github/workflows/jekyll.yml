@@ -10,11 +10,6 @@ on:
   # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
-  pull_request:
-    types:
-      - opened
-      - review_requested
-    branches: ["main"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -37,11 +32,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Spellcheck
-        uses: rojopolis/spellcheck-github-actions@0.27.0
-        with:
-          source_files: *.md _posts/*.md
-          task_name: Markdown
       - name: Setup Ruby
         uses: ruby/setup-ruby@0a29871fe2b0200a17a4497bae54fe5df0d973aa # v1.115.3
         with:
