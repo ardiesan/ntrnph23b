@@ -1,0 +1,7 @@
+matrix:
+- name: Articles Markdown
+  aspell:
+    lang: en
+    d: en_US
+  sources:
+  - _posts/*.md
