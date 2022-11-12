@@ -43,7 +43,8 @@ post_class: post-template
 
                 <!-- Post Title -->
                 <h1 class="posttitle">{{ page.title }}</h1>
-
+                <span class="post-date">{{ page.date | date: "%b. %d, %Y" }}</span>
+                &nbsp;&#183;&nbsp;{% include read-time.html content=page.content %}
             </div>
 
             <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
@@ -90,7 +91,7 @@ post_class: post-template
             <!-- Post Date -->
             <p>
             <small>
-                <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
+              <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date: "%b %d %Y" }}</time></span>           
                 {% if page.last_modified_at %}
                 (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
                 {% endif %}
@@ -142,6 +143,18 @@ post_class: post-template
 </div>
 <!-- End Article
 ================================================== -->
+
+{% if site.related.display == true %}
+<div class="container">
+  <div class="row" style="margin-top: 50px;">
+    <div class="col-md-2 pl-0">
+    </div>
+    <div class="col-md-9 flex-first flex-md-unordered">
+      {% include related.html %}
+    </div>
+  </div>
+</div>
+{% endif %}
 
 <!-- Begin Comments
 ================================================== -->
