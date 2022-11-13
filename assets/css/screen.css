@@ -904,6 +904,15 @@ iframe {
     transition: opacity .25s;
 }
 
+/** related **/
+.related-wrapper .section-title h2 {
+    border-bottom: 1px solid rgba(0, 0, 0, .125);
+    font-weight: bold;
+    font-size: 1.4rem;
+    line-height: 0.5rem;
+    margin-bottom: 20px;
+}
+
 .related-wrapper ul.related-list {
     list-style: none;
     padding: 0;
@@ -911,10 +920,38 @@ iframe {
 
 .related-wrapper ul.related-list li {
     border-bottom: 1px solid rgba(0, 0, 0, .125);
-    padding: 10px;
+    padding: 15px 10px;
+}
+.related-wrapper a.related-link {
+    color: rgba(0, 0, 0, 1);
+    font-weight: bold;
+    font-size: 110%;
+}
+.related-wrapper .related-author-thumb {
+    width: 24px;
+    height: 24px;
+    margin-right: 13px;
+    border-radius: 100%;
+}
+.related-wrapper .related-list-title {
+    color: rgba(0, 0, 0, .4);
+}
+.related-wrapper .related-author-name {
+    color: rgba(0, 0, 0, .9);
+}
+.related-wrapper .related-tag {
+    color: rgba(0, 0, 0, .9);
+    border: 1px solid rgba(0, 0, 0, .6);
+
+    padding: 4px 10px;
+    border-radius: 30px;
+    text-transform: lowercase;
 }
 
 .mainheading .reading-time {
     padding-right: 20px;
     color: rgba(0, 0, 0, 0.45);
+}
+.related-wrapper .related-post-time {
+    color: rgba(0, 0, 0, .3);
 }

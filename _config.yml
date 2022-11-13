@@ -87,11 +87,12 @@ exclude:
 
 related:
   display: true
+  display_excerpt: true
 
 related_by: tags or categories
 related_limit: 3
 related_from: posts
-related_categories: 2
+related_categories: 1
 related_tags: 1
 related_template: related-post.html
 
