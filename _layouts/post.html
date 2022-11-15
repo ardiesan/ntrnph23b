@@ -61,33 +61,6 @@ post_class: post-template
                 {{content}}
             </div>
 
-            <!-- Author Box -->
-            {% if page.author %}
-            <div class="row post-top-meta">
-                <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
-                    {% if author.avatar %}
-                    <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.full_name }}">
-                    {% else %}
-                    <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.full_name }}">
-                    {% endif %}
-                </div>
-                <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
-                    <a target="_blank" class="link-dark" href="{{ site.baseurl }}/author/{{ page.author }}">{{ author.full_name }}</a>
-                    {% if author.twitter %}
-                    <a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
-                    {% endif %}<br/>
-                    <span class="author-description">{{ author.description }}</span>
-                </div>
-            </div>
-            {% endif %}
-
-            <!-- Rating -->
-            {% if page.rating %}
-            <div class="rating mb-4 d-flex align-items-center">
-                <strong class="mr-1">Rating:</strong> {% include star_rating.html %}
-            </div>
-            {% endif %}
-
             {% comment %}
             <!-- Post Date -->
             <div>
@@ -125,6 +98,71 @@ post_class: post-template
                 </ul>
             </div>
             <!-- End Tags -->
+
+            <!-- Author Box -->
+            {% assign coauthored = false %}
+            {% if page.author %}
+                {% assign author = site.data.authors[page.author] %}
+            {% else %}
+                {% if page.authors.size == 1 %}
+                    {% assign author = page.authors %}
+                {% elsif page.authors.size >= 2 %}
+                    {% assign coauthored = true %}
+                    {% assign authors = page.authors %}
+                {% endif %}
+            {% endif %}
+            
+            <div class="author-wrapper">
+            {% if coauthored == false %}
+            <div class="section-title">
+              <h2><span>Author</span></h2>
+            </div>
+
+            <div class="row post-top-meta">
+                <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+                    {% if author.avatar %}
+                    <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.full_name }}">
+                    {% endif %}
+                </div>
+                <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+                    <a target="_blank" class="link-dark" href="{{ site.baseurl }}/author/{{ page.author }}">{{ author.full_name }}</a>
+                    {% if author.twitter %}
+                    <a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
+                    {% endif %}<br/>
+                    <span class="author-description">{{ author.description }}</span>
+                </div>
+            </div>
+            {% elsif coauthored == true %}
+            <div class="section-title">
+              <h2 class="mx-auto"><span>Authors</span></h2>
+            </div>
+
+            {% for otor in authors %}
+            {% assign author = site.data.authors[otor] %}
+            <div class="row post-top-meta">
+                <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-lg-4 mb-md-0">
+                    {% if author.avatar %}
+                    <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.full_name }}">
+                    {% endif %}
+                </div>
+                <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+                    <a target="_blank" class="link-dark" href="{{ site.baseurl }}/author/{{ page.author }}">{{ author.full_name }}</a>
+                    {% if author.twitter %}
+                    <a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
+                    {% endif %}<br/>
+                    <span class="author-description">{{ author.description }}</span>
+                </div>
+            </div>
+            {% endfor %}
+            {% endif %}
+            </div>
+
+            <!-- Rating -->
+            {% if page.rating %}
+            <div class="rating mb-4 d-flex align-items-center">
+                <strong class="mr-1">Rating:</strong> {% include star_rating.html %}
+            </div>
+            {% endif %}
 
             <!-- Prev/Next -->
             <div class="row PageNavigation d-flex justify-content-between font-weight-bold">

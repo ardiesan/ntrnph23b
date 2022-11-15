@@ -209,6 +209,15 @@ section.recent-posts {
     font-size: 0.95rem;
 }
 
+/* caauthored */
+.author-wrapper .section-title h2 {
+    border-bottom: 1px solid rgba(0, 0, 0, .125);
+    font-weight: bold;
+    font-size: 1.1rem;
+    line-height: 0.5rem;
+    margin-bottom: 20px;
+}
+
 .toc ul {
     list-style: decimal;
     font-weight: 400;
@@ -219,6 +228,35 @@ section.recent-posts {
     white-space: nowrap !important;
     text-overflow: ellipsis !important;
     overflow: hidden !important;
+}
+
+.coauthor-meta-wrapper {
+    flex: 1 1 auto;
+    white-space: nowrap !important;
+    text-overflow: ellipsis !important;
+    overflow: hidden !important;
+}
+
+.coauthor-meta-wrapper .meta-footer-thumb {
+    flex: 1 1 0;
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+}
+.coauthor-meta-wrapper .meta-footer-thumb .author-thumb-small {
+    width: 20px;
+    height: 20px;
+    margin-right: 7px;
+    border-radius: 100%;
+}
+
+
+.coauthor-meta-wrapper .author-meta {
+    flex: 2 1 auto;
+    white-space: nowrap !important;
+    text-overflow: ellipsis !important;
+    overflow: hidden !important;
+    vertical-align: middle;
 }
 
 span.post-name,
@@ -908,7 +946,7 @@ iframe {
 .related-wrapper .section-title h2 {
     border-bottom: 1px solid rgba(0, 0, 0, .125);
     font-weight: bold;
-    font-size: 1.4rem;
+    font-size: 1.1rem;
     line-height: 0.5rem;
     margin-bottom: 20px;
 }
@@ -933,11 +971,21 @@ iframe {
     margin-right: 13px;
     border-radius: 100%;
 }
+.related-wrapper .related-categories {
+    text-overflow: ellipsis !important;
+}
 .related-wrapper .related-list-title {
-    color: rgba(0, 0, 0, .4);
+    color: rgba(0, 0, 0, .3);
 }
 .related-wrapper .related-author-name {
     color: rgba(0, 0, 0, .9);
+}
+.related-wrapper .related-post-meta {
+    font-size: 0.8rem; 
+    color: rgba(0,0,0,0.6);
+}
+.related-wrapper .related-post-time {
+    color: rgba(0, 0, 0, .3);
 }
 .related-wrapper .related-tag {
     color: rgba(0, 0, 0, .9);
@@ -951,7 +999,4 @@ iframe {
 .mainheading .reading-time {
     padding-right: 20px;
     color: rgba(0, 0, 0, 0.45);
-}
-.related-wrapper .related-post-time {
-    color: rgba(0, 0, 0, .3);
 }

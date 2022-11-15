@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "What is a Dynamic Site & a Static Site"
-author: jdayuday, nsagnoy
+authors:
+- nsagnoy
+- jdayuday
 categories:
 - internship
 - static site

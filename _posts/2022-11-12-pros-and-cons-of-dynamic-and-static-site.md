@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Pros & Cons of Dynamic and Static Site"
-author: nsagnoy, jdayuday
+authors:
+- nsagnoy
+- jdayuday
 categories:
 - internship
 - static site
