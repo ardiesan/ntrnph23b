@@ -16,6 +16,7 @@ group :jekyll_plugins do
     gem 'jekyll-auto-authors'
     gem 'jekyll-seo-tag'
     gem 'jekyll-archives'
+    gem 'jekyll-timeago'
     gem 'kramdown'
     gem 'rouge'
 end

@@ -1,4 +1,16 @@
-{% assign author = site.data.authors[post.author] %}
+
+{% assign coauthored = false %}
+{% if post.author %}
+    {% assign author = site.data.authors[post.author] %}
+{% else %}
+    {% if post.authors.size == 1 %}
+        {% assign authors = post.authors %}
+    {% elsif post.authors.size >= 2 %}
+        {% assign coauthored = true %}
+        {% assign authors = post.authors %}
+    {% endif %}
+{% endif %}
+
     <li class="related-item">
       <div class="container-fluid m-0">
         <div class="row related-list-title mb-2">
@@ -7,17 +19,29 @@
           </div>
         </div>
         <div class="row related-post-meta">
-          <div class="col-md-9 col-lg-8 pl-0">
+          <div class="col-md-12 col-lg-8 pl-0 hide-overflow">
+          {% if coauthored == false %}
             {% if author.avatar %}
             <img class="related-author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.full_name }}">
             {% endif %}
-            <a href="{{ site.baseurl }}/author/{{post.author}}" class="related-author-name">{{ author.full_name }}</a></span> in <span class="related-categories">
+            <a href="{{ site.baseurl }}/author/{{post.author}}" class="related-author-name">{{ author.full_name }}</a></span>
+          {% elsif coauthored == true %}
+            {% for otor in authors %}
+            {% assign author = site.data.authors[otor] %}
+            {% assign name = author.full_name | split: " " %}
+            <a href="{{ site.baseurl }}/author/{{post.author}}" class="related-author-name">{{ name[1] }}</a>{% if forloop.index < authors.size %} &amp; {% endif %}
+            {% endfor %}
+          {% endif %}
+            in <span class="related-categories">
             {% for cat in post.categories %}
             <a href="{{ site.baseurl }}/categories#{{ cat }}" class="related-tag">{{ cat }}</a>
             {% endfor %}</span>
           </div>
-          <div class="col-md-3 col-lg-4 p-0">
-            <span class="related-post-time">{{ post.date | date_to_string }} &nbsp;&#183;&nbsp;{% include read-time.html content=post.content %}</span>
+          <div class="col-md-6 col-lg-2 p-0 text-lg-right">
+            <span class="related-post-time">{{ post.date | date_to_string }}</span>
+          </div>
+          <div class="col-md-6 col-lg-2 p-0 text-lg-right text-md-right">
+            <span class="related-post-time">{% include read-time.html content=post.content %}</span>
           </div>
         </div>
         {% if site.related.display_except == true %}
