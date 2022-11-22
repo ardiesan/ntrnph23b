@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Understanding Laravel migration and seeding for beginner's"
-authors:
-- jdayuday
+author: jdayuday
 categories:
 - internship
 - migrations
