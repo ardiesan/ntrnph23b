@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "What is Migrations"
-authors:
-- nsagnoy
+author: nsagnoy
 categories:
 - internship
 - migrations
