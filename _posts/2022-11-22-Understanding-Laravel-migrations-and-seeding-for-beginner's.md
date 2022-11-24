@@ -6,6 +6,7 @@ categories:
 - internship
 - migrations
 - seeding
+published: false
 ---
 
 Web application frameworks  according to GeeksforGeeks as "a software framework that is meant to assist the creation of web applications including web services, web resources, and web APIs." In layman's terms, web frameworks are pieces of software that allow you to design and execute web applications. As a result, you don't have to write on your own and hunt for any errors and miscalculations.
