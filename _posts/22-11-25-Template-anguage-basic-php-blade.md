@@ -7,6 +7,7 @@ categories:
 - blade
 - PHP
 image: assets/images/jdayuday_blade_1.png
+published: false
 ---
 
 <br>
