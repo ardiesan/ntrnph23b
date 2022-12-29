@@ -11,14 +11,14 @@ As a software engineer intern at FULLSPEED TECHNOLOGIES INC, I have had the oppo
 
 ## Effective Communication
 
-In the following topic, I was able to know the organizational structure of the company and its mission and its vision. At FULLSPEED at end of every month, the company has a monthly knowledge sharing in which employees can share their knowledge with the team. During this time I was invited to another meeting for the introduction to the team/department to that I will belong (Ronin department). The Titan department is one of the development departments in the company.
+In the following topic, I was able to know the organizational structure of the company and its mission and its vision. At FULLSPEED at end of every month, the company has a monthly knowledge sharing in which employees can share their knowledge with the team. During this time I was invited to another meeting for the introduction to the team/department that I will belong (Ronin department). The Ronin department is one of the development departments in the company.
 
 In this particular virtual meeting, we talk about the department goals which are :
 - Project delivery
 - Productivity
 - Quality
 
-Have you noticed that these three goals are not being numbered/ordered? in the department goals these three goals are treated as equal while the focus of the Titan department core values is: 
+Have you noticed that these three goals are not being numbered/ordered? in the department goals these three goals are treated as equal while the focus of the Ronin department core values is: 
 
 - Trust and Respect
 - Teamwork
