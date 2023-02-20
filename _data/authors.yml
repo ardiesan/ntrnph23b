@@ -1,7 +1,7 @@
 john:
   name: John
-  display_name: John    
-  avatar: 'assets/images/avatar.png'
+  display_name: John
+  avatar: "assets/images/avatar.png"
   gravatar: b1cc14991db7a456fcd761680bbc8f81
   email: ardiesan+johnt@example.net
   web: https://www.example.net
@@ -11,21 +11,27 @@ john:
 nsagnoy:
   full_name: Natalie Sagnoy
   display_name: Nat
-  avatar: 'assets/images/avatar.png'
+  avatar: "assets/images/avatar.png"
   email: nsagnoy+noreply@example.net
   description: "W.I.P"
 
 jdayuday:
   full_name: Jerson Dayuday
   display_name: Erson
-  avatar: 'assets/images/avatar.png'
+  avatar: "assets/images/avatar.png"
   email: jdayuday+noreply@example.net
   description: "W.I.P"
 
 canis:
   full_name: Cloyd Anis
   display_name: Cloyd
-  avatar: 'assets/images/avatar.png'
+  avatar: "assets/images/avatar.png"
   email: canis+noreply@example.net
   description: "A junior engineer making great strides in the software development industry."
 
+gparawan:
+  full_name: Gerand Parawan
+  display_name: Rand
+  avatar: "assets/images/avatar.png"
+  email: gparawan+noreply@example.net
+  description: "Gerand C. Parawan is a computer engineering student at CTU - Danao Campus who enjoys making jokes and talking with people. He has been interested in technology and computers since he was young."
