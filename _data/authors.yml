@@ -29,6 +29,13 @@ canis:
   email: canis+noreply@example.net
   description: "A junior engineer making great strides in the software development industry."
 
+vcaballero:
+  full_name: Vince Q. Caballero
+  display_name: Bins
+  avatar: 'assets/images/avatar.png'
+  email: vcaballero+noreply@example.net
+  description: "A technology enthusiast who enjoys good food, video games, and movies/anime."
+
 jfrancisco:
   full_name: Jeffrey Francisco
   display_name: Jeffrey
