@@ -1,7 +1,7 @@
 john:
   name: John
-  display_name: John    
-  avatar: 'assets/images/avatar.png'
+  display_name: John
+  avatar: "assets/images/avatar.png"
   gravatar: b1cc14991db7a456fcd761680bbc8f81
   email: ardiesan+johnt@example.net
   web: https://www.example.net
@@ -11,21 +11,21 @@ john:
 nsagnoy:
   full_name: Natalie Sagnoy
   display_name: Nat
-  avatar: 'assets/images/avatar.png'
+  avatar: "assets/images/avatar.png"
   email: nsagnoy+noreply@example.net
   description: "W.I.P"
 
 jdayuday:
   full_name: Jerson Dayuday
   display_name: Erson
-  avatar: 'assets/images/avatar.png'
+  avatar: "assets/images/avatar.png"
   email: jdayuday+noreply@example.net
   description: "W.I.P"
 
 canis:
   full_name: Cloyd Anis
   display_name: Cloyd
-  avatar: 'assets/images/avatar.png'
+  avatar: "assets/images/avatar.png"
   email: canis+noreply@example.net
   description: "A junior engineer making great strides in the software development industry."
 
@@ -35,3 +35,24 @@ vcaballero:
   avatar: 'assets/images/avatar.png'
   email: vcaballero+noreply@example.net
   description: "A technology enthusiast who enjoys good food, video games, and movies/anime."
+
+jfrancisco:
+  full_name: Jeffrey Francisco
+  display_name: Jeffrey
+  avatar: 'assets/images/avatar.png'
+  email: jfrancisco+noreply@example.net
+  description: "Jeffrey E. Francisco, a 22-year-old student at Cebu Technological University Danao Campus, has a passion for innovation and technology, particularly web development, which he finds both challenging and fascinating."
+
+jbenola:
+  full_name: Julie Beñola
+  display_name: Julie
+  avatar: 'assets/images/avatar.png'
+  email: julie+noreply@example.net
+  description: "A friend, pet lover, and a young woman with big dreams and enthuastic about technology and believes in it's power  to improve employment and enhance life. Hoping to explore new software knowledge, improve her programming skills, and make a positive impact in the world."
+
+gparawan:
+  full_name: Gerand Parawan
+  display_name: Rand
+  avatar: "assets/images/avatar.png"
+  email: gparawan+noreply@example.net
+  description: "Gerand C. Parawan is a computer engineering student at CTU - Danao Campus who enjoys making jokes and talking with people. He has been interested in technology and computers since he was young."
