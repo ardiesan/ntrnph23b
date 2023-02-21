@@ -29,3 +29,9 @@ canis:
   email: canis+noreply@example.net
   description: "A junior engineer making great strides in the software development industry."
 
+jbenola:
+  full_name: Julie Beñola
+  display_name: Julie
+  avatar: 'assets/images/avatar.png'
+  email: julie+noreply@example.net
+  description: "A friend, pet lover, and a young woman with big dreams and enthuastic about technology and believes in it's power  to improve employment and enhance life. Hoping to explore new software knowledge, improve her programming skills, and make a positive impact in the world."
