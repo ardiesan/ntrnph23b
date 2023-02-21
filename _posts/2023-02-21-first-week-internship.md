@@ -4,7 +4,6 @@ title:  "Reflection of my First Week of Internship"
 author: jfrancisco
 categories:
 - internship
-published: false
 ---
 
 An internship is a program offered by a company or organization that allows someone to gain experience in their chosen field of work. It provides an opportunity to visualize the actual setup and environment and participate in various trainings to experience their chosen field of work. The goal of an internship is to help someone learn and develop new skills, gain professional experience, explore and discover different career paths, and decide on their future career path based on their field of study.
