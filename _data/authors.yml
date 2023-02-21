@@ -29,6 +29,13 @@ canis:
   email: canis+noreply@example.net
   description: "A junior engineer making great strides in the software development industry."
 
+jfrancisco:
+  full_name: Jeffrey Francisco
+  display_name: Jeffrey
+  avatar: 'assets/images/avatar.png'
+  email: jfrancisco+noreply@example.net
+  description: "Jeffrey E. Francisco, a 22-year-old student at Cebu Technological University Danao Campus, has a passion for innovation and technology, particularly web development, which he finds both challenging and fascinating."
+
 jbenola:
   full_name: Julie Beñola
   display_name: Julie
