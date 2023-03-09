@@ -14,7 +14,7 @@ When working on a team project, one important consideration is the environment a
 ## WEEK 2
 <hr>
 
-### Day I
+### Day I : Git Commands
 Activities:
 - Understanding on how to pull, push, and commit using command-line interface (CLI).
 - Understanding the concept of branching
@@ -38,14 +38,14 @@ Git is a powerful tool for managing software development projects, making it eas
     - git rebase
 <hr>
 
-### Day II
-Activities:
+### Day II : Business Ethics, Docker Desktop, and MySQL Workbench
+Activities: 
 - Understanding some business ethics that we must always take into account when working.
 - Installation of Docker Desktop and MySQL Workbench 
 
 Business ethics is concerned with fostering an atmosphere in which people and organizations can conduct themselves in a way that is ethically upright and accountable. Some of these responsibilities involves the following:
 - Acknowledging work-related messages
-- Checking email address all the time
+- Setting time in checking emails
 - Checking work-related notifications
 
 Docker Desktop is a tool for creating and running apps in containers on your local computer. You can create, manage, and deploy Docker containers with the help of its user-friendly graphical interface and command-line tools.
@@ -53,7 +53,7 @@ Docker Desktop is a tool for creating and running apps in containers on your loc
 For Docker Desktop installation using CLI in macOS, you can follow the steps below:
 1. Search and open your terminal using the spotlight
 2. In the terminal, type the text below for installation. (let's assume that you have homebrew in your local)
-        - $brew install --cask docker
+        - \$ brew install --cask docker
 3. Once done, Docker Desktop is now available in your local. Congratulations.
 
 MySQL Workbench is a graphical user interface (GUI) tool used to create, build, and manage MySQL databases. Users may design, edit, and manage database schema, tables, and queries visually. 
@@ -61,36 +61,35 @@ MySQL Workbench is a graphical user interface (GUI) tool used to create, build, 
 For Installation in macOS, you can follow the steps provided below:
 1. Search and open your terminal using the spotlight.
 2. Assume that you have already homebrew in your local, in your terminal, type the text provided below:
-        - $brew install --cask mysqlworkbench
+        - \$ brew install --cask mysqlworkbench
 3. Once done, MySQL Workbench is now available on your local. Congratulations 
 <hr>
 
-### Day III
+### Day III : Docker Desktop, MySQL Workbench, and Docker Image
 Activities:
 - Still processing with Docker Desktop and MySQL Workbench 
-- Connecting the said applications
 - Creating a container from the docker image using docker desktop
 - Create and delete database, table, and data
 
-Docker Desktop is a GUI tool used to monitor docker images, and create a container out from a specific images such as MySQL image. The connection between Docker Desktop and MySQL Workbench will make different especially in monitoring and modifying data in your database. 
+Docker Desktop is a GUI tool used to monitor docker images, and create a container out from a specific images such as MySQL image. The creation of a new container using a msql image will let you access its database via MySQL Workbench.
 
 Docker image is a small, standalone, executable file that includes all of the components required to run a piece of software, such as code, libraries, runtime, system tools, and settings. It was created to operate within containers, which are independent, self-contained computing environments that may be used on any device or cloud platform that supports Docker.
 
 For pulling MySQL image using a terminal in macOS, you can follow the steps provided below;
 1. Search and open your terminal using your spotlight.
 2. For pulling the image, type the text provided below in your terminal then enter. (You can check its official site for further information)
-    - $docker pull mysql
+    - \$ docker pull mysql
 3. Once done, you can check your downloaded image using the Docker Desktop.
 4. If you see the image in it, Congratulations you can now create your own MySQL container and database.
 
 <hr>
 
-### Day IV
+### Day IV : MySQL Workbench and Foreign Keys
 Activities:
-- Still understanding the functionality of MySQL Workbench.
+- Still understanding on how MySQL Workbench works.
 - Understanding the concept of Foreign Keys
 
-MySQL Workbench has its differet functionality. It can create and delete database and table, and insert data. Tables can be connected into one using the Foreign Key. A database table's foreign key is a column or group of columns that points to another table's primary key. In order to link the foreign key in one table to the primary key in another, a relationship between the two tables must first be established. In a relational database, it is also a method of tying together similar data from different tables. Foreign key itself serves as the bridge that can connect between tables
+MySQL Workbench has its own way on how it works. It can create and delete database and table, and insert data. Tables can be connected into one using the Foreign Key. In order to link one table to the primary key to another, a relationship between the two tables must first be established via a foreign key. In a relational database, it is also a method of tying together similar data from different tables. Foreign key itself serves as the bridge that can connect between one table to another.
 <hr>
 
 ## Summary
