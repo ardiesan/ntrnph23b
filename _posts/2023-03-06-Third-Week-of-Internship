@@ -19,9 +19,9 @@ Activities:
 - Accessing laravel in my local machine
 - Implementation of the basic tasklist tutorial
 
-In the third week of my first day at the company, we began by properly installing additional software to be used in the development process. Laravel is an open-source, PHP-based web framework that provides developers with tools and features to create web applications quickly. To utilize Laravel, we needed to install other software such as PHP and Composer. To install, follow the steps below:
+In the first day of ny third week at the company, we began by properly installing additional software to be used in the development process. Laravel is an open-source, PHP-based web framework that provides developers with tools and features to create web applications quickly. To utilize Laravel, we needed to install other software such as PHP and Composer. To install, follow the steps below:
 
-* For PHP::
+* For PHP:
 1. Open your terminal using your spotlight
 2. In your terminal, input the following command <br>
         \$ brew install php
