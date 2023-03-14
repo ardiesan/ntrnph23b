@@ -5,7 +5,7 @@ author: vcaballero
 categories: 
 - internship
 ---
-Journal Week 3
+It has been three weeks since I started my internship, and I am starting to become more accustomed to the crash course experience. We have not only learned programming tools and techniques but also ethics and the proper mindset.
 
 ## Implementing Basic Task List By Laravel - Day 9
 
