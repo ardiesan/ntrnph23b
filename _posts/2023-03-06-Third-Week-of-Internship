@@ -24,14 +24,14 @@ In the first day of ny third week at the company, we began by properly installin
 * For PHP:
 1. Open your terminal using your spotlight
 2. In your terminal, input the following command <br>
-        \$ brew install php
+        - brew install php
 3. After installation, your PHP is now present on your local machine. Congratulations
 
 
 * For composer:
 1. Open your terminal using your spotlight
 2. In your terminal, input the following command <br>
-        \$ brew install composer
+        - brew install composer
 3. After installation, your composer is now present on your local machine. Congratulations.
 
 In addition to that, PHP is one of the most well-known tools for creating dynamic websites. It has many features that make it easy and effective to use. Composer, on the other hand, is a PHP-based tool that manages PHP Artisan commands, making tasks such as creating, deleting, and more, easy to execute using your terminal.
@@ -62,8 +62,8 @@ PHP Artisan commands make developers' tasks easier by allowing them to execute v
 Activities:
 - Modifying the visual of the basic task list
 
-On the last day of my third week at the company, we focused on utilizing controllers and routes in our work. Our task for the day was to add additional features that were not included in the basic task list tutorial, and modify it to make it unique. To achieve this, I utilized CSS to enhance the visual design of the task list. Bootstrap CSS was also introduced at that time. Throughout the day, we worked on modifying the basic task list using Laravel."
+On the last day of my third week at the company, we focused on utilizing controllers and routes in our work. Our task for the day was to add additional features that were not included in the basic task list tutorial, and modify it to make it unique. To achieve this, I utilized CSS to enhance the visual design of the task list. Bootstrap CSS was also introduced at that time. In addition to that, utilizing a framwork's convention makes a development work faster. Throughout the day, we worked on modifying the basic task list using Laravel.
 <hr>
 
 ## Summary
-Throughout that week, I learned about the importance of using the terminal in my work. It makes tasks more organized and easier to complete. Additionally, I discovered that Laravel is one of the best tools for creating websites. Its installation requires PHP and Composer, which should be present on your local machine. These were all the key takeaways from my third week at the company.
+Throughout the week, I learned about the importance of using the terminal in my work. It makes tasks more organized and easier to complete. Just like creating a migration and controller file using a PHP artisan command in the terminal. Additionally, I discovered that Laravel is one of the best tools for creating websites, and follows the Model-View-Controller (MVC) concept. Its installation requires PHP and Composer, which should be present on your local machine. Also, utilizing any framework's convention like CSS will make development work better and faster. These are all the key takeaways from my third week at the company.

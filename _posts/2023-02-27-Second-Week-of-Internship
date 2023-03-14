@@ -53,7 +53,7 @@ Docker Desktop is a tool for creating and running apps in containers on your loc
 For Docker Desktop installation using CLI in macOS, you can follow the steps below:
 1. Search and open your terminal using the spotlight
 2. In the terminal, type the text below for installation. (let's assume that you have homebrew in your local)
-        - \$ brew install --cask docker
+        - brew install --cask docker
 3. Once done, Docker Desktop is now available in your local. Congratulations.
 
 MySQL Workbench is a graphical user interface (GUI) tool used to create, build, and manage MySQL databases. Users may design, edit, and manage database schema, tables, and queries visually. 
@@ -61,7 +61,7 @@ MySQL Workbench is a graphical user interface (GUI) tool used to create, build, 
 For Installation in macOS, you can follow the steps provided below:
 1. Search and open your terminal using the spotlight.
 2. Assume that you have already homebrew in your local, in your terminal, type the text provided below:
-        - \$ brew install --cask mysqlworkbench
+        - brew install --cask mysqlworkbench
 3. Once done, MySQL Workbench is now available on your local. Congratulations 
 <hr>
 
@@ -78,7 +78,7 @@ Docker image is a small, standalone, executable file that includes all of the co
 For pulling MySQL image using a terminal in macOS, you can follow the steps provided below;
 1. Search and open your terminal using your spotlight.
 2. For pulling the image, type the text provided below in your terminal then enter. (You can check its official site for further information)
-    - \$ docker pull mysql
+    - docker pull mysql
 3. Once done, you can check your downloaded image using the Docker Desktop.
 4. If you see the image in it, Congratulations you can now create your own MySQL container and database.
 
