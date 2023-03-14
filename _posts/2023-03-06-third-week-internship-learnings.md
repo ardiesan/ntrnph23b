@@ -6,19 +6,18 @@ categories:
   - internship
 ---
 
-During the third week of my internship with the company, I gained a better understanding of the concept "laravel," including its definition, structure, and conventions. This week is primarily dedicated to practicing the laravel.
+During the third week of my internship with the company, I gained a better understanding of the concept Laravel including its definition, structure, and conventions. This week is primarily dedicated to practicing the Laravel.
 
 ## The Ninth and Tenth Days
 
 We were given the task of setting up a Laravel Docker, accessing the Laravel Docker, implementing the basic task list tutorial, and knowing the Laravel conventions, like patterns. I have gained some understanding of how to do Laravel using Visual Studio code and Docker.
 
-### Knowing Laravel Conventions
+### List of Naming Laravel Conventions
 
-- **Naming Controllers** - I learned that the name of a controller should be written in Pascal/Capital Case, with all the words written in the singular case, without any spaces between them, and ending with the word controller (e.g. TaskController).
-- **Naming database** - I learned that this database should be created using lowercase letters, underscores to separate words, and the plural form.
-- **Variables** - I learned that it needs to be lowercase with the initial character in camelCase.
-- **Naming Conventions for Models** - I learned that a model needs to be written in PascalCase/CapitalCase. and every single word should be capitalized, without any spaces in between.
-- **Blade view files** - I learned that words in blade files should be lowercase, snake case (e.g index.blade.php).
+- **Controller Naming Convention** - I learned that in naming controllers, always capitalize the first letter of the word and written in singular form, there should be no spaces between the words, and it should always end with the word "Controller". For example, TaskController
+- **Model Naming Convention** - I learned that in naming Models always capitalize the first letter of each word. For example, Task.
+- **Variables** - I learned that in naming Variables always begin with a lowercase letter to the first word and the first letter of the second word is capitalized. For example, firstName.
+- **Blade View File Naming Convention** - I learned that in naming Blade view files always use lowercase letters and use the ".blade.php" file extension for Blade templates. For example, index.blade.php.
 
 ## The Eleventh and Twelfth Days
 
