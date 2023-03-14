@@ -51,7 +51,7 @@ Activities:
 
 On the third day of my internship at the company, we started the day by understanding the concept of middleware. Based on what I have understood after reading, middleware is a software component that holds authentication and authorization. This is where you can see if the user is authorized and authenticated to perform a selected action. It is also where you can check if the user has permission to perform the selected action that they want to do. To automatically create a file for authentication using the PHP artisan command, you can follow the command below:
 
-- php artisan make: auth
+- php artisan make:auth
 
 Based on my experience, the command above can’t be executed in Laravel 9. But you can still perform it in different ways. You can follow the commands below:
 - composer require laravel/ui
@@ -69,7 +69,6 @@ Activities:
 - Understanding the concept of the git revert command
 
 The concept of git revert is usually used when updating or creating a new commit without the presence of the selected commit that you want to revert. On the last day of my internship at the company, we focused on understanding the concept of the git revert command and its usage. The ticket for that day is to revert the previously reviewed commit and apply the requested changes. It is kind of frustrating because we cannot achieve the other condition after applying the command. We still tried our best to find other ways to finish the ticket, but still, we barely made it on time. After that day, we have not finished the ticket, but I learned that we must always verify the ticket before doing it. Once we can sense something wrong with the instructions, always verify and ask for clarification, but you must do it properly. Those are the learnings I have gained after a day at the company.
-
 <hr>
 
 ## Summary
