@@ -1,0 +1,69 @@
+---
+layout: post
+title: "Reflection on ny Third Week of Internship"
+author: jfrancisco
+categories:
+  - internship
+---
+
+Another week at the company has begun, and we have added to our knowledge of software development. Our task is to install additional software that will be utilized in the process and to apply the basic tutorial for Laravel. My specific task for myself this week is to observe, apply, and understand the concepts of Laravel in order to fully comprehend it.
+
+<hr>
+
+## WEEK 3
+<hr>
+
+### Day I : Laravel and its Implementation
+Activities:
+- Setting up laravel in my local machine
+- Accessing laravel in my local machine
+- Implementation of the basic tasklist tutorial
+
+In the first day of ny third week at the company, we began by properly installing additional software to be used in the development process. Laravel is an open-source, PHP-based web framework that provides developers with tools and features to create web applications quickly. To utilize Laravel, we needed to install other software such as PHP and Composer. To install, follow the steps below:
+
+* For PHP:
+1. Open your terminal using your spotlight
+2. In your terminal, input the following command <br>
+        - brew install php
+3. After installation, your PHP is now present on your local machine. Congratulations
+
+
+* For composer:
+1. Open your terminal using your spotlight
+2. In your terminal, input the following command <br>
+        - brew install composer
+3. After installation, your composer is now present on your local machine. Congratulations.
+
+In addition to that, PHP is one of the most well-known tools for creating dynamic websites. It has many features that make it easy and effective to use. Composer, on the other hand, is a PHP-based tool that manages PHP Artisan commands, making tasks such as creating, deleting, and more, easy to execute using your terminal.
+<hr>
+
+### Day II : Basic Laravel Tasklist Tutorial
+Activities:
+- Still continuing the basic laravel tasklist tutorial
+
+On the next day, we implemented the basic tutorial for Laravel's task list. The tutorial taught us how to create a simple task list using Laravel. However, we encountered a blocker during the migration portion, where the created container needed to be connected to its main file in order to make it functional. Nonetheless, we were able to create additional files using PHP Artisan commands, such as controller and migration files. Additionally, we learned about the Model-View-Controller (MVC) concept, where the Model handles the website's database, the View provides the expected reaction from user actions, and the Controller manipulates everything and serves as the bridge from the user to the website. These were the key takeaways from my second day at the company.
+
+<hr>
+
+### Day III : Migration, Controller, and Laravel Convention
+Activities:
+- Understanding the laravel convention
+- Understanding the concept of migration and controller
+
+On the third day of my internship at the company, I continued to work on understanding the basic tutorial for creating a task list using Laravel. I encountered various topics such as migration, routes, and controllers during the activity. PHP Artisan commands were helpful in creating the necessary files quickly and easily. Some of the commands I used are listed below:
+- php artisan make: migration - helps me in creating a migration file
+- php artisan make: model - helps me in creating a model file
+- php artisan make: controller - helps me in creating a controller file
+
+PHP Artisan commands make developers' tasks easier by allowing them to execute various actions using the terminal. There are more commands available aside from the ones listed above. These were the key things I encountered and learned on my third day at the company.
+<hr>
+
+### Day IV : Modifying Laravel Basic Tasklist
+Activities:
+- Modifying the visual of the basic task list
+
+On the last day of my third week at the company, we focused on utilizing controllers and routes in our work. Our task for the day was to add additional features that were not included in the basic task list tutorial, and modify it to make it unique. To achieve this, I utilized CSS to enhance the visual design of the task list. Bootstrap CSS was also introduced at that time. In addition to that, utilizing a framwork's convention makes a development work faster. Throughout the day, we worked on modifying the basic task list using Laravel.
+<hr>
+
+## Summary
+Throughout the week, I learned about the importance of using the terminal in my work. It makes tasks more organized and easier to complete. Just like creating a migration and controller file using a PHP artisan command in the terminal. Additionally, I discovered that Laravel is one of the best tools for creating websites, and follows the Model-View-Controller (MVC) concept. Its installation requires PHP and Composer, which should be present on your local machine. Also, utilizing any framework's convention like CSS will make development work better and faster. These are all the key takeaways from my third week at the company.
