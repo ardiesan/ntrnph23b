@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Reflection of What I have Learned Before, During, and After the Internship"
+title: "Reflection of What I have Learned Before, and During the Internship"
 author: jfrancisco
 categories:
   - internship
 ---
 
 An internship program is a good opportunity to discover and experience the things that you want to know about your chosen field. Understanding the working process and its environment are just some things you could experience. Experience in your chosen field will also help you in making decisions on your future career path.
-<hr>
 
 ## My Idea about Web Application Development
 Before the internship, I do not have any idea about web application development. I already heard about it but I do not know the process done in creating web applications. During the internship, I slowly understand its processes like the tools to be utilized and the practice done in making a project. I also know that it is not easy as it is. I require practice, time, and effort to create a real working project. Those are the things that I know about web application development as of now.
