@@ -3,7 +3,7 @@ layout: post
 title: "My Internship's Second Week of Learning"
 author: jbenola
 categories:
-  - internship
+- internship
 ---
 
 In my second week of my internship with the company, I learned more about the idea of software development and the various tools and technologies that may be used to create and manage applications. Github, Docker, MySQL Workbench, Mysql Server, Laravel, HTTP, MVC, and REST vs. RESTful were among the tools covered this week. Within a period of five to eight days, I will have learned enough about each of these technologies and tools to understand how important they are to software development.
