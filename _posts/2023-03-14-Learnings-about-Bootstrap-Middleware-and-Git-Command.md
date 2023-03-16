@@ -18,7 +18,7 @@ Activities:
 
 In my fourth week at the company, we started the day by understanding the concept of Bootstrap CSS and implementing it into our task list based on the one provided by the Laravel team. Bootstrap CSS is one of the frameworks that make the development work much easier and faster. It also beautifies the visual aspect of your project. In addition, you can use and apply it by downloading or linking it. You can link to Bootstrap CSS using the link below:
 
-    - <link href="/asset/css/bootstrap.min.css}" rel="stylesheet">
+    - <link href="/asset/css/bootstrap.min.css" rel="stylesheet">
 
 Through that, I learned how to simply apply it to my project. I learn how to add colors, change their position and shape, and even change their sizes. The implementation of Bootstrap CSS is not as easy as it looks. It requires observation, understanding, and more practice to make it perfect without any guide to see. Those are the learnings I have gained after a day at the company.
 

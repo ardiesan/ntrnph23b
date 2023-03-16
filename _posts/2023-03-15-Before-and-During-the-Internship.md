@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Reflection of What I have Learned Before, and During the Internship"
+title: "Reflection of What I have Learned Before and During the Internship"
 author: jfrancisco
 categories:
-  - internship
+- internship
 ---
 
 An internship program is a good opportunity to discover and experience the things that you want to know about your chosen field. Understanding the working process and its environment are just some things you could experience. Experience in your chosen field will also help you in making decisions on your future career path.
