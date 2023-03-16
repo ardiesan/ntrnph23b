@@ -3,7 +3,7 @@ layout: post
 title: "What I Have Learned on the Second Week of Internship"
 author: gparawan
 categories:
-  - internship
+- internship
 ---
 
 The second week was quite amazing to learn a lot.

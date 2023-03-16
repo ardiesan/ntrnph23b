@@ -3,7 +3,7 @@ layout: post
 title: "What I Have Learned on the Fourth Week of Internship"
 author: gparawan
 categories:
-  - internship
+- internship
 ---
 
 It is now the 4th week of our internship and we still have much more to learn. These are the things I have encountered.

@@ -3,7 +3,7 @@ layout: post
 title: "Reflection on ny Fourth Week of Internship"
 author: jfrancisco
 categories:
-  - internship
+- internship
 ---
 
 Another week has passed, and a new one has begun. As the new week started, more learnings about software development will be gained. Additional libraries, more git commands, and more professional ethics will be expected to be taught for another week at the company. As you go along the process, it might be difficult, but if you have an interest in learning it, then you will eventually learn it.
@@ -18,7 +18,7 @@ Activities:
 
 In my fourth week at the company, we started the day by understanding the concept of Bootstrap CSS and implementing it into our task list based on the one provided by the Laravel team. Bootstrap CSS is one of the frameworks that make the development work much easier and faster. It also beautifies the visual aspect of your project. In addition, you can use and apply it by downloading or linking it. You can link to Bootstrap CSS using the link below:
 
-    - <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
+    - <link href="/asset/css/bootstrap.min.css}" rel="stylesheet">
 
 Through that, I learned how to simply apply it to my project. I learn how to add colors, change their position and shape, and even change their sizes. The implementation of Bootstrap CSS is not as easy as it looks. It requires observation, understanding, and more practice to make it perfect without any guide to see. Those are the learnings I have gained after a day at the company.
 

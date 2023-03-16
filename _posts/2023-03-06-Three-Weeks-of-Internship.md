@@ -3,7 +3,7 @@ layout: post
 title: "What I Have Learned on the Third Week of Internship"
 author: gparawan
 categories:
-  - internship
+- internship
 ---
 
 On the third week of our internship in the company, we are heavily using the Laravel framework. Let's dive in.

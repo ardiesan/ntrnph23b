@@ -3,7 +3,7 @@ layout: post
 title: "What is Web Application Development to a Newbie Intern"
 author: gparawan
 categories:
-  - internship
+- internship
 ---
 
 Web Application Development may sound scary, but overall once you get to the bottom of it, you won't be afraid anymore. Let us dive into this from my point of view.
