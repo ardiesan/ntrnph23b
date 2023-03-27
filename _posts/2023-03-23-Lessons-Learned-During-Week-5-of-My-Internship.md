@@ -9,7 +9,7 @@ categories:
 This week, we focus on improving our Basic Task List.
 
 ## The Git Reset and the Orientation
-We arrived at the company and prepared our laptops. We were then taught about git revert and git reset. Git revert goes back to a commit but makes another commit, while reset goes back to the commit you wanted to go but also removes the commits along the way up to the point where you want to go back. After then, we were visited by our Vice Department Manager and he oriented us about Soft Skills and Hard Skills by first watching the short film "Who Moved my Cheese?". We had an icebreaker followed by activities. It was a fun experience.
+We arrived at the company and prepared our laptops. We were then taught about git revert and git reset. Git revert goes back to a commit but makes another commit, while reset goes back to the commit you wanted to go but also removes the commits along the way up to the point where you want to go back. After then, we were visited by the Vice Department Manager of Department 1 and he oriented us about Soft Skills and Hard Skills by first watching the short film "Who Moved my Cheese?". We had an icebreaker followed by activities. It was a fun experience.
 
 ## The Modal
 On this day, we were tasked to create a modal for our generated task lists. It's like a pop-up screen or form. We spent the whole day making it but at the end of the day, we made it wrong. We relied too much on AI Software and didn't have a chance to directly search for it. It's best practice to search first rather than relying on it. I have now learned from my mistakes and won't over-rely on the software.
