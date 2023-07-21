@@ -3,7 +3,7 @@ layout: post
 title: "Reflection on the First Week of Internship"
 author: gparawan
 categories:
-  - internship
+- internship
 ---
 
 We, computer engineers, arrived at the company. I was nervous about the fact that all of the people working here are high-leveled and what everyone would expect of us interns is that we are already highly skilled. Although this is an internship, I will try to manage and hone my skills.
