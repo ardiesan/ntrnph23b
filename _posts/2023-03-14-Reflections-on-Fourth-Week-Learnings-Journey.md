@@ -3,7 +3,7 @@ layout: post
 title: "My Internship's Fourth Week of Learning"
 author: jbenola
 categories:
-  - internship
+- internship
 ---
 
 In the fourth week of my internship with the company, I made progress in my understanding of how to make a basic task list in the Laravel team, how to follow the instructions to make it, and how to enhance and apply some adjustments. I learned a lot this week, and I was eager to learn more about using Laravel.

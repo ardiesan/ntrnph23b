@@ -3,7 +3,7 @@ layout: post
 title: "Reflection for Web Development"
 author: jbenola
 categories:
-  - internship
+- internship
 ---
 
 The internet is a common communication tool in today's society since it allows us to keep up with information that is published on social media, in the news, in business, in education, and on the state of the economy. Web development plays an important position in society by assisting those who are running businesses to sell online. It also helps students learn more about web development.

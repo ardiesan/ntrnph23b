@@ -3,7 +3,7 @@ layout: post
 title: "My Internship's Third Week of Learning"
 author: jbenola
 categories:
-  - internship
+- internship
 ---
 
 During the third week of my internship with the company, I gained a better understanding of the concept Laravel including its definition, structure, and conventions. This week is primarily dedicated to practicing the Laravel.
