@@ -56,3 +56,10 @@ gparawan:
   avatar: "assets/images/avatar.png"
   email: gparawan+noreply@example.net
   description: "Gerand C. Parawan is a computer engineering student at CTU - Danao Campus who enjoys making jokes and talking with people. He has been interested in technology and computers since he was young."
+
+mtrinidad:
+  full_name: Miguel Trinidad
+  display_name: Migoy
+  avatar: "assets/images/avatar.png"
+  email: mtrinidad+noreply@example.net
+  description: "A motivated, resilient, and friendly IT student from University of Cebu - Banilad paving my way to the software development industry."
