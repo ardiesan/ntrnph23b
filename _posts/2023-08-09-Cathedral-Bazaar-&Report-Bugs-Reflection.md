@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cathedral and the Bazaar, Reporting Bugs Effectively: Reflection"
-author: mtrinidad
+author: jwapano
 categories: 
 - internship
 ---
