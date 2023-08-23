@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Being an Effective Communicator"
+title: "Our Exposure to the world of programming"
 authors: 
 - raya-ay
 - author2
-- author 3
+- author3
 categories: 
 - internship
 - git merge
@@ -12,6 +12,7 @@ categories:
 
 intro
 
+[//]: # (talk about why you choose this course/industry, your impressions, your 1st exp in school, and your journey, including our exp so far in this company)
 ---
 
 # miguel
