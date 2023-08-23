@@ -16,7 +16,7 @@ intro
 ---
 
 # Miguel Trinidad
-#### My IT Journey: Overcoming Challenges and Embracing Opportunities
+### My IT Journey: Overcoming Challenges and Embracing Opportunities
 ---
 My journey in the IT world started because I was excited about all the opportunities it offers and the good money that comes with it. When I began college, I struggled a lot with programming classes during the first few years. Coding was really tough, and I didn't do well in those subjects. My grades were bad. But I didn't give up. I kept going, even when things were hard. I made friends along the way, and as time went on, many of them changed their majors.
 
