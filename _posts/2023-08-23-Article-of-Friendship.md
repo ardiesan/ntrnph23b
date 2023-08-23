@@ -33,7 +33,7 @@ What's even more exciting is that I've made new friends from other schools who s
 
 
 # Jade Wapano
-###
+### Discovering New Opportunities and Expanding My Skill Set
 ---
 When I was younger, I was fascinated by computers. I remember the day my parents brought home my first PC and how excited I was to explore its features. That's how I discovered the internet and video games, which made me even more interested in technology and its positive impact on our lives. As I grew older, my passion for technology continued to expand, which ultimately made my decision to pursue IT. I first learned about computer programming in senior high school, where we were introduced to C language basics. It was manageable back then, but when I got to college, I realized programming was much more complex and challenging than I thought. I had to learn various programming languages, including front-end languages like HTML, CSS, JavaScript, and BootStrap, and back-end languages like PHP, JAVA, and MySQL. As I progressed, We were introduced to Laravel, a framework we frequently use in medium to large web development projects such as IM, Design Project, and Capstone. This helped me to enhance my abilities even further. I can still remember how challenging it was to learn all those languages. Still, the satisfaction of finally understanding them was enormous. 
 
