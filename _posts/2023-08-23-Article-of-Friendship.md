@@ -16,7 +16,7 @@ intro
 ---
 
 # miguel
-    sentence1
+    migoy sample commit
 
 # jade
     sentence2
