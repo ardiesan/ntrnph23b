@@ -8,11 +8,7 @@ authors:
 categories: 
 - internship
 - git merge
----
-
-intro
-
-[//]: # (talk about why you choose this course/industry, your impressions, your 1st exp in school, and your journey, including our exp so far in this company)
+image: assets/images/proj-journey-collab.png
 ---
 
 # Miguel Trinidad
@@ -29,8 +25,6 @@ Being an intern at an amazing company is something I never thought would happen 
 When I first got accepted here, I had high hopes, but now that I'm in my sixth week, I can say that this company has exceeded my expectations. It's not just about the work; it's the company culture that's truly wonderful. I feel like I belong here, and the positive environment is all around me.
 
 What's even more exciting is that I've made new friends from other schools who share the same passion as me. It's great to connect with people who are as enthusiastic about technology as I am. This internship has shown me that there's so much more to learn and experience than I initially thought. It's not just about the tasks; it's about personal and professional growth. This journey has opened my eyes to the endless possibilities in the IT world, and I'm grateful for the chance to be part of it.
-
-
 
 # Jade Wapano
 ### Discovering New Opportunities and Expanding My Skill Set
