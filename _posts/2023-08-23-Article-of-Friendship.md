@@ -26,6 +26,9 @@ When I first got accepted here, I had high hopes, but now that I'm in my sixth w
 
 What's even more exciting is that I've made new friends from other schools who share the same passion as me. It's great to connect with people who are as enthusiastic about technology as I am. This internship has shown me that there's so much more to learn and experience than I initially thought. It's not just about the tasks; it's about personal and professional growth. This journey has opened my eyes to the endless possibilities in the IT world, and I'm grateful for the chance to be part of it.
 
+
+New paragraph 1
+
 # Jade A. Wapano
 ### Discovering New Opportunities and Expanding My Skill Set
 ---
