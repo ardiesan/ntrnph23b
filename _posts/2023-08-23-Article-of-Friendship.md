@@ -63,3 +63,8 @@ After a semester has past, unfortunately, thats when the global pandemic, COVID-
 In this period I was underloaded in my subjects and had extra free time, I decided to go myself a head start by applying for an internship early. I luckily got accepted into the company and made the most out of it. I learned more about laravel, learned how to use MERN. Unfortunately my time spent there was not credited due to me not talking to the coordinator first and me not making my weekly journal. Although it was not credited, it was an insightful experience and it gave me a glimpse of what to expect when I enter the industry.
 
 And now this leads us to the present of this story, where I am currently doing my On Job Training to prepare me for the industry after I graduate. I still have one year left before I graduate and I hope I make the most of it while I am still considered a student and make the most out of the free time I have before I truly become a working citizen in this community.
+
+
+
+# Test-user
+### This is a title
