@@ -73,9 +73,7 @@ And now this leads us to the present of this story, where I am currently doing m
 # Test-user
 ### This is a title
 
-<<<<<<< Updated upstream
 test comment 1
 test comment 2
-=======
-test comment 1 
->>>>>>> Stashed changes
+
+Statshing this line of text
