@@ -28,6 +28,7 @@ What's even more exciting is that I've made new friends from other schools who s
 
 
 New paragraph 1
+New paragraph 2 - stash 1 check!!!
 
 # Jade A. Wapano
 ### Discovering New Opportunities and Expanding My Skill Set
@@ -72,5 +73,9 @@ And now this leads us to the present of this story, where I am currently doing m
 # Test-user
 ### This is a title
 
+<<<<<<< Updated upstream
 test comment 1
 test comment 2
+=======
+test comment 1 
+>>>>>>> Stashed changes
