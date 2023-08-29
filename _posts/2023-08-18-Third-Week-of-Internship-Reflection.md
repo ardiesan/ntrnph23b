@@ -14,7 +14,7 @@ Today, our mentor gave us an exciting challenge - we interns had to collaborate 
 
 The main objective is to show how to work together using Git in one file and one branch. This activity will help us understand how the system works, and we will be able to foresee what happens if conflicts occur while committing changes. It's exciting to work with my fellow interns and learn more about Git in the process.
 
-### Day 2: Setting-up: Navigating the Git Landscape: Embracing Terminal-based Version Control
+### Day 2: Navigating the Git Landscape: Embracing Terminal-based Version Control
 I was recently introduced to managing version control systems like Git via the terminal, and it has been quite an adjustment for me. Most of my school projects were completed using a GUI, so adapting to the new commands and processes has proven to be quite challenging. Nevertheless, I'm excited about gradually becoming more comfortable with it over time. This week, I've learned and successfully executed several commands:
 
 - `git checkout` is a command within the Git version control system that enables users to switch between different branches or versions of a repository. With git checkout, one can effortlessly create and navigate branches, reset changes, and even retrieve files from other branches. This tool proves exceptionally powerful for managing code changes and ensuring repository organization and currency.
