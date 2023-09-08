@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Being an Effective Communicator"
+title: "Tales of the Third Week Intern"
 author: raya-ay
 categories: 
 - internship

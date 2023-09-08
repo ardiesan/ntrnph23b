@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My 2nd Week Experience"
+title: "Tales of The Second Week Intern"
 author: raya-ay
 categories: 
 - internship
