@@ -37,6 +37,6 @@ Following that advice, our task for today on top of the one we were already doin
 
 # Friday (2023-09-08)
 ---
-I asked my fellow interns on what they did the day before as I have classes on Tuesdays and Thursdays. It was further continuation of the previous tasks. We were instructed instead of finding visual bugs and inconsistencies, we were to find bugs that are impeding on the functionality of the application.
+I asked my fellow interns on what they did the day before as I don't have classes on Tuesdays and Thursdays. It was further continuation of the previous tasks. We were instructed instead of finding visual bugs and inconsistencies, we were to find bugs that are impeding on the functionality of the application.
 
 However we were not able to find much because we have addressed such bugs at the very beginning when we started our tasks and now that leaves little to remain. I wanted to further explore the functionality of the website however that will be a task that I will be able to do on Monday.
