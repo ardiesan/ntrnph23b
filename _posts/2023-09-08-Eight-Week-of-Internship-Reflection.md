@@ -5,7 +5,7 @@ author: mtrinidad
 categories: 
 - internship
 ---
-blablablablablasdkhjasdjajskldhaksjdhlahsdakjsdhakjsdh
+SSH and SCP Exploration, Ticket Etiquette, Ticket Handling, A Valuable Lesson in Handling a Ticket
 
 ---
 ## Day 1: SSH and SCP Exploration
