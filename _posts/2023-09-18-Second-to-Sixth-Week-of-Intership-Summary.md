@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Second - Sixth Week of Internship: Reflection"
+title: "Second - Sixth Week of Internship Summary: Reflection"
 author: jwapano
 categories:
 - internship
