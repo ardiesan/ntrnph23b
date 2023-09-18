@@ -17,6 +17,7 @@ Its now been four weeks since my onboarding. I struggle to stay awake past 9pm, 
 On this day, us interns were resuming the activity that we have done from the previous week which was to find bugs in a project. During our daily standup, our manager provided us more insight on the perspectives of other people when they view tickets and bug reports. We were informed and advised to update our ticket report into an agreed format structure in order to maintain a form of consistency. We had to communicate properly what the bug was, concisely enumerate the steps to reproduce the bug that was brought up and last provide a proposed solution on how to resolve it. 
 
 It gave us an experience that we were slowly becoming professionals as we slowly become more accustomed to the standards of this globalized industry.
+
 ## Public Key Infrastructures
 On the other half of the day, we continued on our activity and then our manager gave us a challenge and asked us if we wanted to proceed with it. By the end of the challenge we were to receive a website with a database associated with it. It was proposed to be a "15 min" challenge. Initially me and my fellow interns were hesitant one moving forward with the challenge. But after 10 minutes of deliberation, we decided to push through with it.
 
