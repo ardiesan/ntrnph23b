@@ -5,11 +5,11 @@ author: jwapano
 categories: 
 - internship
 ---
-This week, we focused on the initial deployment of our newly created Laravel project with middleware implementation. Here's how it went.
+This week, we were finally able to deploy our Laravel application without any problems. I've also gained valuable new knowledge about Cron and Regex expressions.
 
 ## Eight Week Reflection:
 
-### Day 1: Successfully Deploying My First Laravel Application
+### Day 1: Successfully Deploying Laravel Application
 On this day, I was finally able to deploy my Laravel application on the remote server, thanks to my mentor who guided us on how to do it properly. As a result, I was also able to migrate my tables to the remote database without any problems. Overall, this has been a valuable learning experience, especially since it's my first time deploying a web application that can be accessed remotely. I'm very thankful for the guidance and support.
 
 Here's my laravel app `jwapano.ronins.site`.
