@@ -25,7 +25,7 @@ Today, access to the Ronin's database server was granted we were able to login, 
 
 In the late afternoon, I successfully completed the development of my application and was all set for deployment. Unfortunately, I encountered an error when attempting to migrate my tables to the remote database server. This error message indicated that my account lacked the necessary authorization access to perform the migration. With limited time remaining, I made the decision to postpone deployment to the next workday.
 
-### Day 3:
+### Day 3: Transferring a Laravel Application with SCP
 
 Today, I encountered the same migration error that persisted from the previous working day. I promptly informed my mentor about the issue and, while awaiting authorized permission to resolve it, I took the step to transfer my Laravel application to the remote Ronin's server using SCP.
 
