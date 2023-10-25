@@ -4,6 +4,7 @@ title: "Fifth to Ninth Week of Internship: A Summary"
 author: mtrinidad
 categories: 
 - internship
+image: assets/images/fifthninthsummary.jpeg
 ---
 During this five-week period, I continued to deepen my knowledge and skills in software development. From learning about the JIRA for effective project management to exploring new technologies like Laravel Livewire, SSH, and middleware, each week brought valuable insights and experiences. I also learned about best practices for GitHub pull requests and enhanced my ability to think critically and adapt to challenges in the software development world.
 

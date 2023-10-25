@@ -4,6 +4,7 @@ title: "Eight Week of Internship: A Reflection"
 author: mtrinidad
 categories: 
 - internship
+image: assets/images/eightweek.jpeg
 ---
 SSH and SCP Exploration, Ticket Etiquette, Ticket Handling, A Valuable Lesson in Handling a Ticket
 

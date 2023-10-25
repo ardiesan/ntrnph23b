@@ -4,6 +4,7 @@ title: "Seventh Week of Internship: A Reflection"
 author: mtrinidad
 categories: 
 - internship
+image: assets/images/seventhweek.jpeg
 ---
 This week was all about finding and fixing problems in the admin ticketing system. We worked together and solved some issues, and we learned that asking for help is okay. Let's dive into what happened this week.
 

@@ -4,6 +4,7 @@ title: "Five Weeks of Internship: A Reflection"
 author: mtrinidad
 categories: 
 - internship
+image: assets/images/fiveweekinternship.jpeg
 ---
 
 In my 5-week internship journey, I started by learning Middleware, Websockets, and tackled deployment challenges. It involved debugging, teamwork, and researching monthly report plugins. It was about automation and Github Actions. I explored connectivity with Reverse SSH and "Poor Man's VPN" while also experiencing GitHub Workflows. My journey was a rich mix of learning, deploying, collaborating, automating, and exploring new technologies.

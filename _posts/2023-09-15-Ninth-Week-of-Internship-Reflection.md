@@ -4,6 +4,7 @@ title: "Ninth Week of Internship: A Reflection"
 author: mtrinidad
 categories: 
 - internship
+image: assets/images/ninthweek.jpeg
 ---
 GitHub Pull Requests and Best Practices, Exploring Laravel Livewire, A Day of Laravel Livewire and SSH, and Middleware 
 

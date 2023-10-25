@@ -4,6 +4,7 @@ title: "Sixth Week of Internship: A Reflection"
 author: mtrinidad
 categories: 
 - internship
+image: assets/images/sixthweek.jpeg
 ---
 This week I learned about shell commands, cybersecurity, and Git configurations. Me and my co-intern did code reading, this will help us understand projects better. 
 
