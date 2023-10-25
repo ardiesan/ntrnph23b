@@ -23,8 +23,8 @@ During this five-week period, I continued to deepen my knowledge and skills in s
 - **Day 3: Shell Commands and Networking Basics**
     - I learned about shell commands, which are like magic words for computers.
     - I explored networking basics, including ports and addresses.
-    - _Lesson_: In the shell, different symbols indicate oour user role. It's important to understand these roles.
-    - _Lesson_: Cybersecurity is crucial, and there are patterns and conventions to follow.
+    - _Lesson_: In the shell, different symbols indicate our user role. It's important to understand these roles.
+    - _Lesson_: Cybersecurity is crucial, and there are patterns and conventions to follow
     - _Lesson_: In software development, it's about skills, not the device or system we use.
 
 - **Day 4: Git Configuration and Code Reading**
