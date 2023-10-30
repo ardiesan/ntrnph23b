@@ -6,7 +6,7 @@ categories:
 - internship
 ---
 
-## 1st Week Reflection:
+## First Week Reflection:
 
 ### Day 1: Reflection about Cathedral and the Bazaar, How to Reports Bugs Effectively
 
