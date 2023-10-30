@@ -4,6 +4,7 @@ title: "Fourth Week of Internship: A Reflection"
 author: mtrinidad
 categories: 
 - internship
+image: assets/images/fourthweek.jpeg
 ---
 Throughout this week of my internship, I encountered various learning opportunities that have contributed to my growth as an intern. From communication strategies to diving into into new technologies, each day presented new insights and experiences.
 
