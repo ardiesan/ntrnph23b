@@ -4,6 +4,7 @@ title: "Tales of the 8th Week Intern"
 author: raya-ay
 categories: 
 - internship
+image: assets/images/an-8th-week.png
 ---
 
 # Monday (2023-10-02):

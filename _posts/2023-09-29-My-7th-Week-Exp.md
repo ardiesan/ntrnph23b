@@ -4,6 +4,7 @@ title: "Tales of the 7th Week Intern"
 author: raya-ay
 categories: 
 - internship
+image: assets/images/an-7th-week.png
 ---
 
 

@@ -7,6 +7,7 @@ categories:
 - cron
 - HTMLDOM
 - CICD
+image: assets/images/an-9th-week.png
 ---
 
 # Monday (2023-10-09)
