@@ -12,7 +12,7 @@ Its now been four weeks since my onboarding. I struggle to stay awake past 9pm, 
 
 ---
 
-# Monday (2023-09-04):
+## Monday (2023-09-04)
 ---
 ### Up to Standard
 On this day, us interns were resuming the activity that we have done from the previous week which was to find bugs in a project. During our daily standup, our manager provided us more insight on the perspectives of other people when they view tickets and bug reports. We were informed and advised to update our ticket report into an agreed format structure in order to maintain a form of consistency. We had to communicate properly what the bug was, concisely enumerate the steps to reproduce the bug that was brought up and last provide a proposed solution on how to resolve it. 
@@ -32,14 +32,14 @@ After that issue was out of the way, we encountered our next roadblock, despite 
 A simple "15 min" task became a 4 hour endeavour. However by the end of the session, through our collaboration, we managed to pull through and reached our goal. In retrospect, it really could have been a 15 min task. But it was a struggle in the beginning because we were so unfamiliar with the process. But now that activity has gave us a foundation if every we work with the SSH in the future.
 
 
-# Wednesday (2023-09-06)
+## Wednesday (2023-09-06)
 ---
 On this day, it was just a continuation on assigning tickets to others and doing the ones assigned to me. During our daily standup our manager provided insight on how vital it is that we should never assume upon initial impressions. Always make sure to ask questions even if it may seem redundant at first.
 
 Following that advice, our task for today on top of the one we were already doing was to verify in the tickets that we were assigned that if we really understood the task.
 
 
-# Friday (2023-09-08)
+## Friday (2023-09-08)
 ---
 I asked my fellow interns on what they did the day before as I don't have classes on Tuesdays and Thursdays. It was further continuation of the previous tasks. We were instructed instead of finding visual bugs and inconsistencies, we were to find bugs that are impeding on the functionality of the application.
 
