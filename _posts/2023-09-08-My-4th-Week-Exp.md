@@ -5,7 +5,7 @@ author: raya-ay
 categories: 
 - internship
 - ssh
-image: assets/images/an-4th-week.png
+image: assets/images/anthony/4th-week.png
 ---
 
 Its now been four weeks since my onboarding. I struggle to stay awake past 9pm, I feel like a kid with playtime again, but at least I am able to wake up at 5am rather than still be awake by 5am. I have also properly timed my communte on the way here and going back home, which takes up a total of 2-3 hours of my day... yikes.

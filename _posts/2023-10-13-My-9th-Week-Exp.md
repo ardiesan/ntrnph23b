@@ -7,7 +7,11 @@ categories:
 - cron
 - HTMLDOM
 - CICD
-image: assets/images/an-9th-week.png
+image: assets/images/anthony/9th-week.png
+---
+
+Our tasks using cron jobs gave us an introduction to automating our tasks so that the server could run commands on a assigned schedule. This served as our introduction to our next topic this week, which my fellow interns and I that we had to face, Github actions and workflow. Afterwards we then revisited a beginner topic, the HTML DOM, but with the accumlated knowledge we have, I am sure we can pick up the topic faster and gain broader understanding of it.
+
 ---
 
 # Monday (2023-10-09)

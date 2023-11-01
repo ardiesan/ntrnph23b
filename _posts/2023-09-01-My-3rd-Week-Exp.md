@@ -5,7 +5,7 @@ author: raya-ay
 categories: 
 - internship
 - jira
-image: assets/images/bug-me-not.png
+image: assets/images/anthony/3rd-week.png
 ---
 
 Its now been three weeks since my onboarding. My body clock is now adjusted to waking up early, and to sleeping early as well. Too early perhaps. 

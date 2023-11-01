@@ -4,7 +4,11 @@ title: "Tales of the 8th Week Intern"
 author: raya-ay
 categories: 
 - internship
-image: assets/images/an-8th-week.png
+image: assets/images/anthony/8th-week.png
+---
+
+Cron Jobs! They are a way of scheduling tasks to run on your server. Cron is a service running in the background that will execute commands (jobs) at a specified time, or at a regular interval. This week was loaded with Cron job-related tasks and I am glad I got introduced to this method.
+
 ---
 
 # Monday (2023-10-02):

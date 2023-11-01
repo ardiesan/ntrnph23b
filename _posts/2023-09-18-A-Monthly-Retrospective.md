@@ -4,7 +4,7 @@ title: "A Monthly Retrospective"
 author: raya-ay
 categories: 
 - internship
-image: assets/images/an-6th-week.png
+image: assets/images/anthony/6th-week.png
 ---
 
 Looking back, it is getting closer to two months since I have started to my internship here. It has been a very fruitfly experience so far although I may be biased since this is the path that I took, but I don't think I would be able to do this much if I applied to any other company. I have gotten a lot of insight of what it means to being working in this globalized industry. Heres a summarization of what my experiences are so far.

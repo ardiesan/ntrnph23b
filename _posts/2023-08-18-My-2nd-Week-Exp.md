@@ -5,7 +5,7 @@ author: raya-ay
 categories: 
 - internship
 - git
-image: assets/images/2023-08-18-My-2nd-Week-Exp.png
+image: assets/images/anthony/2nd-week.png
 ---
 
 Its now been a week since my boarding into this company as an intern. I have learned new concepts as well as revisited familiar previous topics that I have not seen years ago.

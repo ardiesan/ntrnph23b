@@ -4,9 +4,12 @@ title: "Tales of the 7th Week Intern"
 author: raya-ay
 categories: 
 - internship
-image: assets/images/an-7th-week.png
+image: assets/images/anthony/7th-week.png
 ---
 
+This week we worked on our own websites to hone our skills in livewire and other tools. For my project I decided to make a website which shows my love for a topic I have loved ever since I was a kid, Pokemon.
+
+---
 
 # Monday (2023-09-25):
 ---
