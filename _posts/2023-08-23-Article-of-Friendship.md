@@ -14,7 +14,7 @@ image: assets/images/proj-journey-collab.png
 # Miguel Trinidad
 ### My IT Journey: Overcoming Challenges and Embracing Opportunities
 ---
-My journey in the IT world started because I was excited about all the opportunities it offers and the good money that comes with it. When I began college, I struggled a lot with programming classes during the first few years. Coding was really tough, and I didn't do well in those subjects. My grades were bad. But I didn't give up. I kept going, even when things were hard. I made friends along the way, and as time went on, many of them changed their majors.
+My journey in the IT world started because I was excited about all the opportunities it offers and the good money that comes with it. When I began college, I struggled a lot with programming classes during the first few years. Coding was tough, and I didn't do well in those subjects. My grades were bad. But I didn't give up. I kept going, even when things were hard. I made friends along the way, and as time went on, many of them changed their majors.
 
 Now, as I'm about to graduate, I look back and remember how things have changed. Only one of my friends from when I started is still doing IT. It's been a great journey full of learning. I got to work with programming languages like C++, C#, JavaScript, and Java. These were like the building blocks of my programming skills. It wasn't always easy, but I didn't stop trying.
 
