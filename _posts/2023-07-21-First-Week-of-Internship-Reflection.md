@@ -4,6 +4,7 @@ title: "First Week of Internship: A Reflection"
 author: mtrinidad
 categories: 
 - internship
+image: assets/images/firstweek.jpeg
 ---
 I understand the significance of having a good internship for shaping my future career. It is essential to have a meaningful internship to gain practical skills and insights in the IT industry. I am grateful for this opportunity and eager to make the most of it.
 

@@ -4,9 +4,10 @@ title: "First week of Internship: Reflection"
 author: jwapano
 categories: 
 - internship
+image: assets/images/wapano-first-week.jpg
 ---
 
-## 1st Week Reflection:
+## First Week Reflection:
 
 ### Day 1: Reflection about Cathedral and the Bazaar, How to Reports Bugs Effectively
 

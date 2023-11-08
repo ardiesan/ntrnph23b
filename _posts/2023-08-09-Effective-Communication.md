@@ -4,6 +4,7 @@ title: "Lessons in Effective Communication"
 author: mtrinidad
 categories: 
 - internship
+image: assets/images/effective-communication.jpeg
 ---
 In my recent experiences, I've discovered the power of clear communication. One particular instance showed how assumptions can lead to misunderstandings. This reflection looks into how lack of proper communication can affect outcomes and emphasizes the importance of being clear in our interactions. 
 
