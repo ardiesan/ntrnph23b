@@ -4,6 +4,7 @@ title: "Second Week of Internship: A Reflection"
 author: mtrinidad
 categories: 
 - internship
+image: assets/images/secondweek.jpeg
 ---
 In my week of the internship, I encountered new challenges and valuable insights. I learned the importance of clear communication, precise updates, and seeking clarification before starting tasks.. Here's a brief reflection on my week's experiences.
 
