@@ -6,7 +6,7 @@ categories:
 - internship
 image: assets/images/ninthweek.jpeg
 ---
-This week was a bit odd with so many days off due to holidays, leaving just one workday, Wednesday. On that day, I struggled a bit to get our local Engineer's Log set up. But when work slowed, I didn't stop. I kept poking around with my Laravel app, trying out new things. Adding a new feature became a highlight. Seeing my code do something, no matter how small, always brings a smile.
+This week was a bit odd with so many days off due to holidays, leaving just one workday, Wednesday. On that day, I struggled a bit to get our local Engineer's Log set up. Also, I kept poking around with my Laravel app, trying out new things. Adding a new feature became a highlight. Seeing my code do something, no matter how small, always brings a smile.
 
 ---
 ## Balancing Learning and Rest
