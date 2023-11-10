@@ -4,7 +4,7 @@ title: "Fifteenth Week of Internship: A Reflection"
 author: mtrinidad
 categories: 
 - internship
-image: assets/images/ninthweek.jpeg
+image: assets/images/mtrinidad-week15.png
 ---
 CodiumAI and PHPStan, AI Image Generation, PHPStan with GitHub Actions, and SonarLint
 

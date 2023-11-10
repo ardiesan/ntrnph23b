@@ -4,7 +4,7 @@ title: "Seventeenth Week of Internship: A Reflection"
 author: mtrinidad
 categories: 
 - internship
-image: assets/images/ninthweek.jpeg
+image: assets/images/mtrinidad-week17.png
 ---
 This week was a mix of learning about Laravel routing and grappling with design in my app. I got better insights into how Git can work across different repositories, and its decentralized nature allows for personal setups and syncing copies by fetching changes from others. In the world of Ruby, I explored gems, handy packages extending Ruby's capabilities, and tools like RubyGems and Bundler that simplify managing dependencies. Jekyll, a static site generator, caught my eye for creating websites and hosting via GitHub Pages.
 
