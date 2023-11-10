@@ -6,10 +6,10 @@ categories:
 - internship
 image: assets/images/ninthweek.jpeg
 ---
-CodiumAI and PHPStan, 
+CodiumAI and PHPStan, AI Image Generation, PHPStan with GitHub Actions, and SonarLint
 
 ---
-## Day 1: CodiumAI and PHPStan, AI Image Generation, PHPStan with GitHub Actions, and SonarLint
+## Day 1: CodiumAI and PHPStan
 
 Monday was all about exploring two important tools: CodiumAI and PHPStan. CodiumAI helps generate tests for our app and it could also explain a block of code for us, while PHPStan spots bugs in our code without having to run the app. With PHPStan, we can focus on specific parts of our app, saving time, especially in Laravel where checking the whole app can take a while. 
 
