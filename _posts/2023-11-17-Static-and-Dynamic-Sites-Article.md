@@ -5,7 +5,6 @@ author: mtrinidad
 categories: 
 - internship
 image: assets/images/mtrinidad-article-2.png
-# generate a new image and change the image path on Friday
 ---
 This article defines and compares static and dynamic websites. It discusses the pros and cons of each. The article also highlights the speed differences between the two. It concludes by offering considerations for choosing the right type of website based on content, interactive features, budget, and plans.
 
