@@ -7,7 +7,7 @@ categories:
 # image: assets/images/anthony/13th-week.png
 ---
 
-You may notice the gap between this reflection and the previous and and it was due to the "weeklong" weekend I had due to all saint's day and all soul's day. This week was spent familiarizing myself with Ruby and studying the nature of a decentralized git workflow
+You may notice the gap between this reflection and the previous and and it was due to the "weeklong" weekend I had due to all saint's day and all soul's day. This week was spent familiarizing myself with Ruby and studying the nature of a decentralized Git workflow
 
 ---
 
