@@ -4,7 +4,7 @@ title: "Twentieth Week of Internship: A Reflection"
 author: mtrinidad
 categories: 
 - internship
-image: assets/images/mtrinidad-week19.png
+image: assets/images/mtrinidad-week20.png
 ---
 During my 20th week, I decided to challenge myself by moving my Jekyll project from GitHub Pages to our server. It seemed tricky at first, but exploring Jekyll's manual deployment using Rsync, a tool I knew from handling backup files, made things clearer. The puzzle was figuring out where to put my Jekyll project on the server, and after a bit of experimenting, I found a simple solution by tucking it inside the 'public' directory of my Laravel project. 
 
