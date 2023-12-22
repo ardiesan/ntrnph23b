@@ -4,7 +4,7 @@ title: "Reflecting on the Eighteenth Week of My Internship"
 author: jwapano
 categories: 
 - internship
-image: assets/images/wapano-seventeenth-week.png
+image: assets/images/wapano-eighteenth-week.png
 ---
 
 Over three days, I automated rsync deployment for my Jekyll project to the Ronins Server via GitHub, addressing plugin compatibility issues and enjoying a mentor-led lunch. I then simplified the project with a new theme, resolving the plugin problem. On the third day, I explored and integrated plugins, gaining insights into web development's dynamic nature and optimizing the project for improved user experience.
