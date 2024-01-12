@@ -21,7 +21,7 @@ Embarking on the internship journey at the company has been an immersive experie
 - ### Developing Robust Web Applications with Laravel
   The company provided an immersive experience in Laravel development, allowing me to sharpen my skills in crafting robust and scalable web applications. With these experiences, it played a crucial role in the successful implementation of my capstone project. The hands-on approach to Laravel development not only deepened my understanding of modern PHP but also instilled confidence in my ability to create web applications.
 
-- ### Crafting Dynamic Websites with Jekyll
+- ### Crafting Static Websites with Jekyll
   Exploring Jekyll during the internship was a journey into the world of static site generators. The ability to create static websites quickly and efficiently with Jekyll boosted my skills and emphasized the importance of enhancing performance without compromising on the user experience.
 
 - ### Securing Connections through SSH and CLI Navigation
