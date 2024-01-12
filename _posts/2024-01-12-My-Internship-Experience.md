@@ -4,7 +4,7 @@ title: "A Transformative Internship Experience"
 author: jwapano
 categories: 
 - internship
-image: assets/images/wapano-internship-experience-1.png
+image: assets/images/wapano-internship-experience-1.jpeg
 ---
 
 ## Introduction
